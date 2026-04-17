@@ -1,8 +1,8 @@
 class Jqpp < Formula
   desc "A robust TUI for interactively exploring JSON with jq-like queries"
   homepage "https://github.com/sukkola/jqpp"
-  url "https://github.com/sukkola/jqpp/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "61eb862a19409962c99cdf1a6ba514f3a77e69e94c8e6db9e42a1b0b6c207809"
+  url "https://github.com/sukkola/jqpp/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "deef2b0c915ec41578c752927da989ee676b4a8388e64cb851661d330790251a"
   license "MIT"
 
   depends_on "rust" => :build
