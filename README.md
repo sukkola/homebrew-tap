@@ -1,6 +1,6 @@
 # Homebrew Tap
 
-This repository is the Homebrew tap for Sampo's CLI tools.
+This repository is the Homebrew tap for CLI tools.
 
 ## Add the tap
 
